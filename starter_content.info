@@ -1,0 +1,8 @@
+name = Starter: Content
+description = Starter Content.
+core = 7.x
+package = Starter
+version = 7.x-1.0
+project = starter_content
+features[features_api][] = api:2
+project path = sites/all/modules/features
